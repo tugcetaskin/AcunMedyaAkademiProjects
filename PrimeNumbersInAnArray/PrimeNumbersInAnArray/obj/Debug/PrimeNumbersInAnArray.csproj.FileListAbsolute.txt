@@ -1,0 +1,8 @@
+C:\Users\taski\OneDrive\Belgeler\C# Projeleri\Tasks\Task2\PrimeNumbersInAnArray\PrimeNumbersInAnArray\PrimeNumbersInAnArray\bin\Debug\PrimeNumbersInAnArray.exe.config
+C:\Users\taski\OneDrive\Belgeler\C# Projeleri\Tasks\Task2\PrimeNumbersInAnArray\PrimeNumbersInAnArray\PrimeNumbersInAnArray\bin\Debug\PrimeNumbersInAnArray.exe
+C:\Users\taski\OneDrive\Belgeler\C# Projeleri\Tasks\Task2\PrimeNumbersInAnArray\PrimeNumbersInAnArray\PrimeNumbersInAnArray\bin\Debug\PrimeNumbersInAnArray.pdb
+C:\Users\taski\OneDrive\Belgeler\C# Projeleri\Tasks\Task2\PrimeNumbersInAnArray\PrimeNumbersInAnArray\PrimeNumbersInAnArray\obj\Debug\PrimeNumbersInAnArray.csproj.AssemblyReference.cache
+C:\Users\taski\OneDrive\Belgeler\C# Projeleri\Tasks\Task2\PrimeNumbersInAnArray\PrimeNumbersInAnArray\PrimeNumbersInAnArray\obj\Debug\PrimeNumbersInAnArray.csproj.SuggestedBindingRedirects.cache
+C:\Users\taski\OneDrive\Belgeler\C# Projeleri\Tasks\Task2\PrimeNumbersInAnArray\PrimeNumbersInAnArray\PrimeNumbersInAnArray\obj\Debug\PrimeNumbersInAnArray.csproj.CoreCompileInputs.cache
+C:\Users\taski\OneDrive\Belgeler\C# Projeleri\Tasks\Task2\PrimeNumbersInAnArray\PrimeNumbersInAnArray\PrimeNumbersInAnArray\obj\Debug\PrimeNumbersInAnArray.exe
+C:\Users\taski\OneDrive\Belgeler\C# Projeleri\Tasks\Task2\PrimeNumbersInAnArray\PrimeNumbersInAnArray\PrimeNumbersInAnArray\obj\Debug\PrimeNumbersInAnArray.pdb

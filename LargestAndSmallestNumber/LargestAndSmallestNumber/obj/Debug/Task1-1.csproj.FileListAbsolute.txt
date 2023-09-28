@@ -1,0 +1,8 @@
+C:\Users\taski\OneDrive\Belgeler\C# Projeleri\Tasks\Task1\Task1-1\Task1-1\Task1-1\bin\Debug\Task1-1.exe.config
+C:\Users\taski\OneDrive\Belgeler\C# Projeleri\Tasks\Task1\Task1-1\Task1-1\Task1-1\bin\Debug\Task1-1.exe
+C:\Users\taski\OneDrive\Belgeler\C# Projeleri\Tasks\Task1\Task1-1\Task1-1\Task1-1\bin\Debug\Task1-1.pdb
+C:\Users\taski\OneDrive\Belgeler\C# Projeleri\Tasks\Task1\Task1-1\Task1-1\Task1-1\obj\Debug\Task1-1.csproj.AssemblyReference.cache
+C:\Users\taski\OneDrive\Belgeler\C# Projeleri\Tasks\Task1\Task1-1\Task1-1\Task1-1\obj\Debug\Task1-1.csproj.SuggestedBindingRedirects.cache
+C:\Users\taski\OneDrive\Belgeler\C# Projeleri\Tasks\Task1\Task1-1\Task1-1\Task1-1\obj\Debug\Task1-1.csproj.CoreCompileInputs.cache
+C:\Users\taski\OneDrive\Belgeler\C# Projeleri\Tasks\Task1\Task1-1\Task1-1\Task1-1\obj\Debug\Task1-1.exe
+C:\Users\taski\OneDrive\Belgeler\C# Projeleri\Tasks\Task1\Task1-1\Task1-1\Task1-1\obj\Debug\Task1-1.pdb

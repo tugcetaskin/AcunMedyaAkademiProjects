@@ -1,0 +1,8 @@
+C:\Users\taski\OneDrive\Belgeler\C# Projeleri\İşlemler\Faktoriyel\Faktoriyel\Faktoriyel\bin\Debug\Faktoriyel.exe.config
+C:\Users\taski\OneDrive\Belgeler\C# Projeleri\İşlemler\Faktoriyel\Faktoriyel\Faktoriyel\bin\Debug\Faktoriyel.exe
+C:\Users\taski\OneDrive\Belgeler\C# Projeleri\İşlemler\Faktoriyel\Faktoriyel\Faktoriyel\bin\Debug\Faktoriyel.pdb
+C:\Users\taski\OneDrive\Belgeler\C# Projeleri\İşlemler\Faktoriyel\Faktoriyel\Faktoriyel\obj\Debug\Faktoriyel.csproj.AssemblyReference.cache
+C:\Users\taski\OneDrive\Belgeler\C# Projeleri\İşlemler\Faktoriyel\Faktoriyel\Faktoriyel\obj\Debug\Faktoriyel.csproj.SuggestedBindingRedirects.cache
+C:\Users\taski\OneDrive\Belgeler\C# Projeleri\İşlemler\Faktoriyel\Faktoriyel\Faktoriyel\obj\Debug\Faktoriyel.csproj.CoreCompileInputs.cache
+C:\Users\taski\OneDrive\Belgeler\C# Projeleri\İşlemler\Faktoriyel\Faktoriyel\Faktoriyel\obj\Debug\Faktoriyel.exe
+C:\Users\taski\OneDrive\Belgeler\C# Projeleri\İşlemler\Faktoriyel\Faktoriyel\Faktoriyel\obj\Debug\Faktoriyel.pdb

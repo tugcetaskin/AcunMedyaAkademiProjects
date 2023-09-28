@@ -1,0 +1,8 @@
+C:\Users\taski\OneDrive\Belgeler\C# Projeleri\Tasks\Task1\Task1-5\Task1-5Try2\Task1-5Try2\bin\Debug\Task1-5Try2.exe.config
+C:\Users\taski\OneDrive\Belgeler\C# Projeleri\Tasks\Task1\Task1-5\Task1-5Try2\Task1-5Try2\bin\Debug\Task1-5Try2.exe
+C:\Users\taski\OneDrive\Belgeler\C# Projeleri\Tasks\Task1\Task1-5\Task1-5Try2\Task1-5Try2\bin\Debug\Task1-5Try2.pdb
+C:\Users\taski\OneDrive\Belgeler\C# Projeleri\Tasks\Task1\Task1-5\Task1-5Try2\Task1-5Try2\obj\Debug\Task1-5Try2.csproj.AssemblyReference.cache
+C:\Users\taski\OneDrive\Belgeler\C# Projeleri\Tasks\Task1\Task1-5\Task1-5Try2\Task1-5Try2\obj\Debug\Task1-5Try2.csproj.SuggestedBindingRedirects.cache
+C:\Users\taski\OneDrive\Belgeler\C# Projeleri\Tasks\Task1\Task1-5\Task1-5Try2\Task1-5Try2\obj\Debug\Task1-5Try2.csproj.CoreCompileInputs.cache
+C:\Users\taski\OneDrive\Belgeler\C# Projeleri\Tasks\Task1\Task1-5\Task1-5Try2\Task1-5Try2\obj\Debug\Task1-5Try2.exe
+C:\Users\taski\OneDrive\Belgeler\C# Projeleri\Tasks\Task1\Task1-5\Task1-5Try2\Task1-5Try2\obj\Debug\Task1-5Try2.pdb
