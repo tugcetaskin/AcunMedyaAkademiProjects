@@ -1,0 +1,8 @@
+C:\Users\taski\OneDrive\Belgeler\C# Projeleri\EmployeesAndManagers\EmployeesAndManagers\bin\Debug\EmployeesAndManagers.exe.config
+C:\Users\taski\OneDrive\Belgeler\C# Projeleri\EmployeesAndManagers\EmployeesAndManagers\bin\Debug\EmployeesAndManagers.exe
+C:\Users\taski\OneDrive\Belgeler\C# Projeleri\EmployeesAndManagers\EmployeesAndManagers\bin\Debug\EmployeesAndManagers.pdb
+C:\Users\taski\OneDrive\Belgeler\C# Projeleri\EmployeesAndManagers\EmployeesAndManagers\obj\Debug\EmployeesAndManagers.csproj.AssemblyReference.cache
+C:\Users\taski\OneDrive\Belgeler\C# Projeleri\EmployeesAndManagers\EmployeesAndManagers\obj\Debug\EmployeesAndManagers.csproj.SuggestedBindingRedirects.cache
+C:\Users\taski\OneDrive\Belgeler\C# Projeleri\EmployeesAndManagers\EmployeesAndManagers\obj\Debug\EmployeesAndManagers.csproj.CoreCompileInputs.cache
+C:\Users\taski\OneDrive\Belgeler\C# Projeleri\EmployeesAndManagers\EmployeesAndManagers\obj\Debug\EmployeesAndManagers.exe
+C:\Users\taski\OneDrive\Belgeler\C# Projeleri\EmployeesAndManagers\EmployeesAndManagers\obj\Debug\EmployeesAndManagers.pdb
