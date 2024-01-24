@@ -1,0 +1,14 @@
+C:\Users\taski\OneDrive\Belgeler\C# Projeleri\ParliamentaryElectionResultsSolution\ParliamentaryElectionResults\bin\Debug\net6.0\ParliamentaryElectionResults.exe
+C:\Users\taski\OneDrive\Belgeler\C# Projeleri\ParliamentaryElectionResultsSolution\ParliamentaryElectionResults\bin\Debug\net6.0\ParliamentaryElectionResults.deps.json
+C:\Users\taski\OneDrive\Belgeler\C# Projeleri\ParliamentaryElectionResultsSolution\ParliamentaryElectionResults\bin\Debug\net6.0\ParliamentaryElectionResults.runtimeconfig.json
+C:\Users\taski\OneDrive\Belgeler\C# Projeleri\ParliamentaryElectionResultsSolution\ParliamentaryElectionResults\bin\Debug\net6.0\ParliamentaryElectionResults.dll
+C:\Users\taski\OneDrive\Belgeler\C# Projeleri\ParliamentaryElectionResultsSolution\ParliamentaryElectionResults\bin\Debug\net6.0\ParliamentaryElectionResults.pdb
+C:\Users\taski\OneDrive\Belgeler\C# Projeleri\ParliamentaryElectionResultsSolution\ParliamentaryElectionResults\obj\Debug\net6.0\ParliamentaryElectionResults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taski\OneDrive\Belgeler\C# Projeleri\ParliamentaryElectionResultsSolution\ParliamentaryElectionResults\obj\Debug\net6.0\ParliamentaryElectionResults.AssemblyInfoInputs.cache
+C:\Users\taski\OneDrive\Belgeler\C# Projeleri\ParliamentaryElectionResultsSolution\ParliamentaryElectionResults\obj\Debug\net6.0\ParliamentaryElectionResults.AssemblyInfo.cs
+C:\Users\taski\OneDrive\Belgeler\C# Projeleri\ParliamentaryElectionResultsSolution\ParliamentaryElectionResults\obj\Debug\net6.0\ParliamentaryElectionResults.csproj.CoreCompileInputs.cache
+C:\Users\taski\OneDrive\Belgeler\C# Projeleri\ParliamentaryElectionResultsSolution\ParliamentaryElectionResults\obj\Debug\net6.0\ParliamentaryElectionResults.dll
+C:\Users\taski\OneDrive\Belgeler\C# Projeleri\ParliamentaryElectionResultsSolution\ParliamentaryElectionResults\obj\Debug\net6.0\refint\ParliamentaryElectionResults.dll
+C:\Users\taski\OneDrive\Belgeler\C# Projeleri\ParliamentaryElectionResultsSolution\ParliamentaryElectionResults\obj\Debug\net6.0\ParliamentaryElectionResults.pdb
+C:\Users\taski\OneDrive\Belgeler\C# Projeleri\ParliamentaryElectionResultsSolution\ParliamentaryElectionResults\obj\Debug\net6.0\ParliamentaryElectionResults.genruntimeconfig.cache
+C:\Users\taski\OneDrive\Belgeler\C# Projeleri\ParliamentaryElectionResultsSolution\ParliamentaryElectionResults\obj\Debug\net6.0\ref\ParliamentaryElectionResults.dll
